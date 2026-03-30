@@ -57,8 +57,10 @@ graph LR
 
 ## 🛠️ 环境准备
 
+> 💡 以下是**使用者**的安装方式。如果你是 Haystack 的**开发者/贡献者**，请参考 [CONTRIBUTING.md](../CONTRIBUTING.md) 使用 Hatch 管理开发环境。
+
 ```bash
-# 安装 Haystack
+# 安装 Haystack（面向使用者）
 pip install haystack-ai
 
 # 验证安装

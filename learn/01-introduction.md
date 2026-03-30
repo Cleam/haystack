@@ -163,6 +163,8 @@ loaded_pipeline = Pipeline.loads(Path("my_rag_pipeline.yaml"))
 
 ## 1.4 安装与配置
 
+> 💡 以下是面向 **Haystack 使用者** 的安装方式。如果你是 **Haystack 开发者/贡献者**，请参考 [CONTRIBUTING.md](../CONTRIBUTING.md) 使用 [Hatch](https://hatch.pypa.io/) 管理开发环境。
+
 ### 基础安装
 
 ```bash
